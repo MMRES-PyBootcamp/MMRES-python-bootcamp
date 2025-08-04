@@ -43,7 +43,7 @@ Timetable
     + 10:00 - 11:00: Numpy --> Numpy (II)
     + 10:00 - 11:00: Group Work --> Numpy (III)
 
-Oct. 22nd
+* Oct. 22nd
     + 12:30 - 13:30: Group Work revision
     + 13:30 - 14:30: Q&A or extra material --> PCA
 
