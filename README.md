@@ -1,16 +1,16 @@
 # BIST-master-python-bootcamp
 
-Contents for the scientific python bootcamp of the BIST master of Multidisciplinary Research in Experimental Sciences (2024 course).
+Contents for the 2025-2026 scientific python bootcamp of the **Barcelona Institute of Science and Technology** (BIST) **Master of Multidisciplinary Research in Experimental Sciences** (MMRES).
 
-The contents of this year's bootcamp are designed based on [2023](https://github.com/MMRES-PyBootcamp/MMRES-python-bootcamp2023), [2022](https://github.com/MMRES-PyBootcamp/MMRES-python-bootcamp2022), [2021](https://github.com/MMRES-PyBootcamp/MMRES-python-bootcamp2021), [2020](https://github.com/germannp/BIST-Python-Bootcamp), and [2019](https://github.com/BorjaRequena/BIST-master-python-bootcamp) editions.
+The contents of this year's bootcamp are designed based on [2023](https://github.com/MMRES-PyBootcamp/MMRES-python-bootcamp2023), [2022](https://github.com/MMRES-PyBootcamp/MMRES-python-bootcamp2022), [2021](https://github.com/MMRES-PyBootcamp/MMRES-python-bootcamp2021), [2020](https://github.com/germannp/BIST-Python-Bootcamp) and [2019](https://github.com/BorjaRequena/BIST-master-python-bootcamp) editions. From 2024 onwards, we decided to keep a single repo (named just `MMRES-python-bootcamp`) for simplicity. If you are interested in previous editions, please browse the [commit history](https://github.com/MMRES-PyBootcamp/MMRES-python-bootcamp/commits/master/) and find for the date you are looking for.
 
-**IMPORTANT**: Make sure you have the learning environment ready **before** coming to the first class on September 12th. Follow the steps below to 1) install python and 2) prepare the `MMRES-python-bootcamp2024` repository on your machine.
+**IMPORTANT**: Make sure you have the learning environment ready **before** comming to the first class on September 25th. Follow the steps below to 1) install python and 2) prepare the `MMRES-python-bootcamp` repository on your machine.
 
 Suggested python installation
 -----------------------------
-1. Distribution: Anaconda3 with Jupyter or JupyterLab (better JupyterLab). Please, refer to the official [Anaconda website](https://www.anaconda.com/download) and follow downloading and installing instructions. Note that you will be prompted to provide an email to get a download link via email.
+1. Distribution: Anaconda3 with [JupyterLab](https://jupyter.org/). Please, refer to the official [Anaconda website](https://www.anaconda.com/download) and follow downloading and installing instructions. Note that you will be prompted to provide an email adress.
 2. Installation: In order to minimize the problems derived from across-students heterogeneity in the setup process, we reccomend to install Anaconda3 with the default options.
-3. Packages: NumPy, Pandas, SciPy, Matplotlib, Seaborn, Scikit-learn, Statsmodels, [bioinfokit](https://anaconda.org/bioconda/bioinfokit)\*, [Pytorch](https://anaconda.org/pytorch/pytorch)\* and [Torchvision](https://anaconda.org/pytorch/torchvision)\*. Please note that starred packages are not available after default Anaconda3 setup and thus you should manually install them using [Anaconda Prompt](https://docs.anaconda.com/free/anaconda/packages/install-packages/). Follow the hyperlinks for further help and be patient, Anaconda might take a considerable amount of time to install certain packages (type `y` then intro when prompted with `Proceed ([y]/n)?` when installing that starred packages).
+3. Packages: NumPy, Pandas, SciPy, Matplotlib, Seaborn, Scikit-learn, Statsmodels, [bioinfokit](https://anaconda.org/bioconda/bioinfokit)\*, [Pytorch](https://anaconda.org/pytorch/pytorch)\* and [Torchvision](https://anaconda.org/pytorch/torchvision)\*. Please note that starred packages are not available after default Anaconda3 setup and thus you should manually install them using the [Anaconda Prompt](https://docs.anaconda.com/free/anaconda/packages/install-packages/). Follow the hyperlinks for further help and be patient, Anaconda might take a considerable amount of time to install certain packages (type `y` then intro when prompted with `Proceed ([y]/n)?` when installing that starred packages).
 
 Suggested repository preparation
 --------------------------------
@@ -24,15 +24,29 @@ If you reached this point, you are up and ready to start the bootcamp next Septe
 Timetable
 ---------
 
-|              | Sept. 12th        | Sept. 17th      | Sept. 19th  | 
+* Sept. 25th (10:00-11:00): Set up & Intro (I)
+* Sept. 25th (11:00-12:00): Intro (II)
+* Sept. 29th (10:00-11:00): Scipy stats (I)
+* Sept. 29th (11:00-12:00): Pandas (I)
+* Oct. 2nd (10:00-11:00): Pandas (II)
+* Oct. 2nd (11:00-12:00): Seaborn
+* Oct. 6th (10:00-11:00): Group Work
+* Oct. 6th (11:00-12:00): Scipy stats (II)
+* Oct. 9th (11:00-12:00): Numpy
+* Oct. 9th (11:00-12:00): Group Work
+* Oct. 22nd (12:30-13:30): Group Work revision
+* Oct. 22nd (13:30-14:30): Q&A or extra material
+
+
+|              | Sept. 25th         | Sept. 29th      | Oct. 2nd    | 
 |--------------|--------------------|-----------------|-------------|
 | 10:00-11:00  | Set up & Intro (I) | Scipy stats (I) | Pandas (II) | 
 | 11:00-12:00  | Intro (II)         | Pandas (I)      | Seaborn     |  
 
-|              |Sept. 27th          |  Oct. 3rd              | Oct. 4th              |
-|--------------|--------------------|------------------------|-----------------------|
-| 12:30-14:00  |Group Work          | Numpy                  | Group Work revision   |
-| 12:30-14:00  |Scipy stats (II)    |  Group Work            | Q&A or extra material |
+|              | Oct. 6th         |  Oct. 9th              | Oct. 4th              |
+|--------------|------------------|------------------------|-----------------------|
+| 10:00-11:00  | Group Work       | Numpy                  | Group Work revision   |
+| 11:00-12:00  | Scipy stats (II) |  Group Work            | Q&A or extra material |
 
 Online Resources
 ----------------
