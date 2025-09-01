@@ -36,15 +36,15 @@ Timetable
     + 10:00 - 11:00: Seaborn
 
 * Oct. 6th:
-    + 10:00 - 11:00: Group Work --> Scipy stats (II)
-    + 10:00 - 11:00: Scipy stats (II) --> Numpy (I)
+    + 10:00 - 11:00: Group Work --> Numpy
+    + 10:00 - 11:00: Scipy stats (II) --> Scipy stats (II)
 
 * Oct. 9th:
-    + 10:00 - 11:00: Numpy --> Numpy (II)
-    + 10:00 - 11:00: Group Work --> Numpy (III)
+    + 10:00 - 11:00: Numpy --> Group Work (I)
+    + 10:00 - 11:00: Group Work --> Group Work (II)
 
 * Oct. 22nd
-    + 12:30 - 13:30: Group Work revision
+    + 12:30 - 13:30: Group Work revision --> Group Work (III)
     + 13:30 - 14:30: Q&A or extra material --> PCA
 
 Online Resources
