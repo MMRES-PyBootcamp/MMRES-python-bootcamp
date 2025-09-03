@@ -1,12 +1,12 @@
 # MMRES Python Bootcamp
 
-Materials for the 2025-2026 scientific python bootcamp of the **Barcelona Institute of Science and Technology** (BIST) **Master of Multidisciplinary Research in Experimental Sciences** (MMRES).
+Materials for the 2025-2026 Python bootcamp of the **Barcelona Institute of Science and Technology** (BIST) **Master of Multidisciplinary Research in Experimental Sciences** (MMRES).
 
-The contents of this year's bootcamp are designed based on [2023](https://github.com/MMRES-PyBootcamp/MMRES-python-bootcamp2023), [2022](https://github.com/MMRES-PyBootcamp/MMRES-python-bootcamp2022), [2021](https://github.com/MMRES-PyBootcamp/MMRES-python-bootcamp2021), [2020](https://github.com/germannp/BIST-Python-Bootcamp) and [2019](https://github.com/BorjaRequena/BIST-master-python-bootcamp) editions. From 2024 onwards, we decided to keep a single repo (named just `MMRES-python-bootcamp`) for simplicity. If you are interested in previous editions, please browse the [commit history](https://github.com/MMRES-PyBootcamp/MMRES-python-bootcamp/commits/master/) and find for the date you are looking for.
+The contents of this year's bootcamp are designed based on [2023](https://github.com/MMRES-PyBootcamp/MMRES-python-bootcamp2023), [2022](https://github.com/MMRES-PyBootcamp/MMRES-python-bootcamp2022), [2021](https://github.com/MMRES-PyBootcamp/MMRES-python-bootcamp2021), [2020](https://github.com/germannp/BIST-Python-Bootcamp) and [2019](https://github.com/BorjaRequena/BIST-master-python-bootcamp) editions. From 2024 onwards, we decided to keep a single repo (named just `MMRES-python-bootcamp`) for simplicity. If you are interested in previous editions, please browse the [commit history](https://github.com/MMRES-PyBootcamp/MMRES-python-bootcamp/commits/master/).
 
-**IMPORTANT**: Make sure you have the learning environment ready **before** comming to the first class on September 25th. Follow the steps below to 1) install python and 2) prepare the `MMRES-python-bootcamp` repository on your machine.
+**IMPORTANT**: Make sure you have the learning environment ready **before** comming to the first class on September 25th. Follow the steps below to 1) install Python and 2) prepare the `MMRES-python-bootcamp` repository on your machine.
 
-Suggested python installation
+Suggested Python installation
 -----------------------------
 1. **Distribution**: Anaconda3 with [JupyterLab](https://jupyter.org/). Please, refer to the official [Anaconda website](https://www.anaconda.com/download) and follow downloading and installing instructions. Note that you will be prompted to provide an email adress.
 2. **Installation**: In order to minimize the problems derived from across-students heterogeneity in the setup process, we reccomend to install Anaconda3 with the default options.
@@ -36,16 +36,16 @@ Timetable
     + 10:00 - 11:00: Seaborn
 
 * Oct. 6th:
-    + 10:00 - 11:00: Group Work --> Numpy
-    + 10:00 - 11:00: Scipy stats (II) --> Scipy stats (II)
+    + 10:00 - 11:00: Numpy
+    + 10:00 - 11:00: Group Work (I) 
 
 * Oct. 9th:
-    + 10:00 - 11:00: Numpy --> Group Work (I)
-    + 10:00 - 11:00: Group Work --> Group Work (II)
+    + 10:00 - 11:00: Scipy stats (II)
+    + 10:00 - 11:00: Group Work (II)
 
 * Oct. 22nd
-    + 12:30 - 13:30: Group Work revision --> Group Work (III)
-    + 13:30 - 14:30: Q&A or extra material --> PCA
+    + 12:30 - 13:30: Group Work (III)
+    + 13:30 - 14:30: Q&A or extra material --> PCA (TODO)
 
 Online Resources
 ----------------
