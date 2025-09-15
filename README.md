@@ -31,7 +31,7 @@ Timetable
     + 10:00 - 11:00: Scipy stats (I)
     + 10:00 - 11:00: Pandas (I)
   
-* Sept. 2nd:
+* Oct. 2nd:
     + 10:00 - 11:00: Pandas (II)
     + 10:00 - 11:00: Seaborn
 
