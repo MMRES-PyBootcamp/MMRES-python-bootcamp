@@ -25,23 +25,23 @@ Timetable
 ---------
 * Sept. 25th:
     + 10:00 - 11:00: Set up & Intro (I)
-    + 10:00 - 11:00: Intro (II)
+    + 11:00 - 12:00: Intro (II)
       
 * Sept. 29th:
     + 10:00 - 11:00: Scipy stats (I)
-    + 10:00 - 11:00: Pandas (I)
+    + 11:00 - 12:00: Pandas (I)
   
 * Oct. 2nd:
     + 10:00 - 11:00: Pandas (II)
-    + 10:00 - 11:00: Seaborn
+    + 11:00 - 12:00: Seaborn
 
 * Oct. 6th:
     + 10:00 - 11:00: Numpy
-    + 10:00 - 11:00: Group Work (I) 
+    + 11:00 - 12:00: Group Work (I) 
 
 * Oct. 9th:
     + 10:00 - 11:00: Scipy stats (II)
-    + 10:00 - 11:00: Group Work (II)
+    + 11:00 - 12:00: Group Work (II)
 
 * Oct. 22nd
     + 12:30 - 13:30: Group Work (III)
