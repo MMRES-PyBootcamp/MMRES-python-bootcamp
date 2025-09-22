@@ -45,7 +45,7 @@ Timetable
 
 * Oct. 22nd
     + 12:30 - 13:30: Group Work (III)
-    + 13:30 - 14:30: Q&A or extra material --> PCA (TODO)
+    + 13:30 - 14:30: PCA
 
 Online Resources
 ----------------
