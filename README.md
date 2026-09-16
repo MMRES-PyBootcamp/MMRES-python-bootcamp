@@ -21,29 +21,29 @@ Suggested repository preparation
 
 If you reached this point, you are up and ready to start the Boot Camp next September 28th.
 
-Timetable (TO BE UPDATED SOON!)
+Timetable
 ---------
-* Sept. 28th (Monday):
+* Sept. 28th (Monday) (61.S14):
     + 10:00 - 11:00: Set up & Intro (I)
     + 11:00 - 12:00: Intro (II)
       
-* Sept. 30th (Wednesday):
+* Sept. 30th (Wednesday) (61.S14):
     + 10:00 - 11:00: Scipy stats (I)
     + 11:00 - 12:00: Pandas (I)
   
-* Oct. 1st (Thursday):
+* Oct. 1st (Thursday) (61.S14):
     + 10:00 - 11:00: Pandas (II)
     + 11:00 - 12:00: Seaborn
 
-* Oct. 5th (Monday):
+* Oct. 5th (Monday) (61.114):
     + 12:30 - 13:30: Numpy
     + 13:30 - 14:30: Group Work (I) 
 
-* Oct. 8th (Thursday):
+* Oct. 8th (Thursday) (61.S14):
     + 10:00 - 11:00: Scipy stats (II)
     + 11:00 - 12:00: Group Work (II)
 
-* Oct. 13th (Tuesday)
+* Oct. 13th (Tuesday) (61.S14):
     + 10:00 - 11:00: Group Work (III)
     + 11:00 - 12:00: PCA
 
