@@ -1,6 +1,6 @@
 # Jupyter lab related folders
 .ipynb_checkpoints
 .virtual_documents
-#/Bayesian/
-#/exercise/
+/Bayesian/
+/exercise/
 /anaconda_projects/
