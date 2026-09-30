@@ -43,7 +43,7 @@ Timetable
     + 10:00 - 11:00: Scipy stats (II)
     + 11:00 - 12:00: Group Work (II)
 
-* Oct. 13th (Tuesday) (61.S14):
+* Oct. 19th (Monday) (61.S14):
     + 10:00 - 11:00: Group Work (III)
     + 11:00 - 12:00: PCA
 
